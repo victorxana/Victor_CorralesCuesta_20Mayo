@@ -1,5 +1,7 @@
 package biblioteca;
 
+/*He introducido nuevos comentarios en el codigo */
+
 public class GestionLibros {
     private static final int MAX_LIBROS = 5;
     private static String[] libros = new String[MAX_LIBROS];
